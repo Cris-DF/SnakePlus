@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Bloque.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="749" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bloque.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="364" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="records.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="204" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Serpiente.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="13" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2994" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="701" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="Alimento.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="292" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Serpiente.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="978" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="675" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="niveles.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="19" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
